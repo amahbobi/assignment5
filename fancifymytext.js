@@ -1,4 +1,3 @@
-// fancifymytext.js
 
 function alertWindow() {
     alert("Hello, world!");
